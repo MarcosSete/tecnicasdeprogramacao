@@ -1,6 +1,8 @@
 # tecnicasdeprogramacao
  Exercícios  do curso de orientação a objetos 
-MIT License
+
+
+ MIT License
 
 Copyright (c) 2024 Marcos G. S. C. Sete
 
