@@ -1,4 +1,4 @@
-# tecnicasdeprogramacao
+# técnicas de programacão
  Exercícios  do curso de orientação a objetos 
 
 
