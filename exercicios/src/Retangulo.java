@@ -10,7 +10,7 @@ public class Retangulo extends Figura{
     public Retangulo (String cor, double lado1,double lado2){
         super(cor);
         this.lado1=lado1;
-        this.lado1 = lado2;
+        this.lado2 = lado2;
     }
 
     public Retangulo(){
